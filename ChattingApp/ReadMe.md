@@ -1,3 +1,4 @@
+# Chatting Android App using Firebase
 
 ![screenshot_20170420-202535](https://user-images.githubusercontent.com/41565823/47961086-08fba280-e004-11e8-8faa-ffa8b5eeec43.png)
 ![screenshot_20170420-203130](https://user-images.githubusercontent.com/41565823/47961087-08fba280-e004-11e8-81f0-4e9262f593c7.png)
@@ -5,9 +6,7 @@
 
 This is how the app would look something like, after finsishing. You can improve UI and add more things, this is just a simple, demo implementation of Firebase, for making a real time chat app. 
 
-# Chatting Demo App
-
-This is a demo app requested by people on stack overflow, to show how to create a real time chatting app using Firebase, with source code and necessary starting information below:
+>This is a demo app requested by people on stack overflow, to show how to create a real time chatting app using Firebase, with source code and necessary starting information below:
 
 
 **Setting Up Firebase**
